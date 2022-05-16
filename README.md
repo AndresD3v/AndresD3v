@@ -17,9 +17,8 @@ I’m currently improving my english skills and programming skills
 
 ## Stast 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresD3v)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrés's github activity graph](https://activity-graph.herokuapp.com/graph?username=AndresD3v&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AndresD3v)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AndresD3v)  
 
