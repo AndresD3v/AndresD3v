@@ -1,14 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Andrés+welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-## My name is Andrés and I want to become a Developer
+## 
+Hi there, I'm Andrés
 I'm 17 y.o. I'm from Colombia and I'm a passionate of programming.
 
-Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on my english skills  
-- 🌱 I’m currently learning Python and JavaScript 
-- ⚡ Fun fact: I like to eat pizza :D 
+## 🔭Studying 
+I’m currently improving my english skills and programming skills 
 
+
+## Skills and Experiences 
+*⚛️React 
+*💻CSS, HTML AND JAVASCRIPT 
+*🐍Python
+
+
+##
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndresD3v)  
 
