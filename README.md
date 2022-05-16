@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Andrés+welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 ## About me ☕
-Hi there, I'm Andrés.
-I'm 17 y.o. I'm from Colombia and I'm a passionate of programming. 
+* Hi there, I'm Andrés.
+* I'm 17 y.o. I'm from Colombia and I'm a passionate of programming. 
 
 
 ## 🔭Studying 
-I’m currently improving my english skills and programming skills 
+* I’m currently improving my english skills and programming skills 
 
 
 ## Skills and Experiences 
