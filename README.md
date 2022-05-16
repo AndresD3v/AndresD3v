@@ -17,8 +17,7 @@
 
 ## Stast 📊
 
-[![Andress's github activity graph](https://activity-graph.herokuapp.com/graph?username=AndresD3v&custom_title=Andre's%20activity&hide_border=false&area_color=#171515&line=#1B5E20)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresD3v&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AndresD3v)  
 
