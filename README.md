@@ -11,6 +11,7 @@
 
 ## Skills and Experiences 
 * ⚛️React 
+* 🖊️TypeScript
 * 💻CSS, HTML AND JAVASCRIPT 
 * 🐍Python
 
