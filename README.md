@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Andrés+welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+My+name+is+Andrés)](https://git.io/typing-svg)
 
 ## About me ☕
 * I'm 17 y.o. I'm from Colombia and I'm a passionate of programming. 
